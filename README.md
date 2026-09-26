@@ -1,4 +1,4 @@
-# # COGNITO-DECODE
+# COGNITO-DECODE
 
 ## Mesleki Eğitim için Üretken Yapay Zekâ Okuryazarlığı ve Epistemik Doğrulama Modeli
 
