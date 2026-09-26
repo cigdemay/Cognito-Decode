@@ -1,21 +1,19 @@
-# COGNITO-DECODE
+# # COGNITO-DECODE
 
-## Generative AI Literacy & Epistemic Verification Model for VET
+## Mesleki Eğitim için Üretken Yapay Zekâ Okuryazarlığı ve Epistemik Doğrulama Modeli
 
-COGNITO-DECODE, mesleki eğitim ve öğretim bağlamında üretken yapay zekâ
-okuryazarlığı, eleştirel prompting ve epistemik doğrulama becerilerini
-geliştirmek üzere geliştirilen pedagojik bir modeldir.
+COGNITO-DECODE, mesleki eğitim ve öğretim (VET) bağlamında üretken yapay zekâ okuryazarlığı, soru mimarisi, eleştirel prompting ve epistemik doğrulama becerilerini geliştirmek üzere tasarlanan pedagojik bir modeldir.
 
-**Concept & Methodology Developer:**  
+**Konsept ve Metodoloji Geliştiricisi:**  
 Çiğdem Dayan
 
-**Initial documented version:** 26 September 2026  
-**Version:** 1.0
+**İlk belgelenmiş sürüm:** 26 Eylül 2026  
+**Sürüm:** 1.0
 
-> **From AI User to AI Auditor.**
+> Yapay Zekâ Kullanıcısından Yapay Zekâ Denetçisine.
 
-### Project Status
+### Proje Durumu
 
-Educational model and methodology under development.
+Eğitim modeli ve metodolojisi geliştirme aşamasındadır.
 
 © 2026 Çiğdem Dayan
